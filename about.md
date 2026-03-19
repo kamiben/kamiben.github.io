@@ -28,3 +28,9 @@ I am also an avid user of [Runkeeper](http://runkeeper.com/user/Kamiben/profile)
 ### Contact me
 
 [benjamin_blog@combe.pm](mailto:benjamin_blog@combe.pm)
+
+### Mentions légales
+Éditeur : Lire l'url de ce site pour l'auteur, contact : quelques lignes au dessus
+Hébergeur : https://github.com GitHub Inc., 88 Colin P. Kelly Jr. St, San Francisco, CA 94107, USA.
+Données : Aucune collecte de données personnelles ni cookie n'est utilisé sur ce site.
+Droits : Sauf mention contraire, le contenu de ce site est la propriété de son auteur.
